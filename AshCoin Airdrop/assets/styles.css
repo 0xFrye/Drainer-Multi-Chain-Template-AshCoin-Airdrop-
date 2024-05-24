@@ -1,0 +1,14 @@
+@media (max-width: 700px) {
+    #main-nav {
+        display: none;
+    }
+}
+
+#inferno-popup-overlay {
+    background: rgba(23, 23, 23, 0.13) !important;
+    backdrop-filter: blur(0px) !important;
+}
+
+#inferno-popup {
+    transform: none !important;
+}
